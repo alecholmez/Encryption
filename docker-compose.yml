@@ -1,0 +1,9 @@
+version: '2'
+services:
+  encrypt:
+    build: .
+    environment:
+      - PORT=8080
+      - DOCS=/go/src/github.com/alecholmez/binary/docs
+    ports:
+      - "8080:8080"

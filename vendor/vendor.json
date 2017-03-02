@@ -1,0 +1,55 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "g/V4qrXjUGG9B+e3hB+4NAYJ5Gs=",
+			"path": "github.com/gorilla/context",
+			"revision": "08b5f424b9271eedf6f9f0ce86cb9396ed337a42",
+			"revisionTime": "2016-08-17T18:46:32Z"
+		},
+		{
+			"checksumSHA1": "+/oy2SsS8YvHVvQGcWUDbaajeXQ=",
+			"path": "github.com/gorilla/handlers",
+			"revision": "13d73096a474cac93275c679c7b8a2dc17ddba82",
+			"revisionTime": "2017-02-24T19:39:55Z"
+		},
+		{
+			"checksumSHA1": "Ek5SW7pswB7YzX1Dr0bTSFCNOtc=",
+			"path": "github.com/gorilla/mux",
+			"revision": "999ef73f5d50979cf6d12afed1726325b63f9570",
+			"revisionTime": "2017-02-23T20:25:54Z"
+		},
+		{
+			"checksumSHA1": "Zvhn37f3wOREUKGcRukqpNhVooM=",
+			"path": "github.com/richard-lyman/lithcrypt",
+			"revision": "e90eacd2f00bb1947fa49ebc01572742db7115cb",
+			"revisionTime": "2017-01-31T02:21:01Z"
+		},
+		{
+			"checksumSHA1": "LjPdvMphElL0GOVNQCsmZMVgWIw=",
+			"path": "github.com/rs/cors",
+			"revision": "a62a804a8a009876ca59105f7899938a1349f4b3",
+			"revisionTime": "2016-06-17T23:19:35Z"
+		},
+		{
+			"checksumSHA1": "hCRfPlNpqv8tvVivLzmXsoUOf1c=",
+			"path": "github.com/rs/xhandler",
+			"revision": "ed27b6fd65218132ee50cd95f38474a3d8a2cd12",
+			"revisionTime": "2016-06-18T19:32:21Z"
+		},
+		{
+			"checksumSHA1": "1MGpGDQqnUoRpv7VEcQrXOBydXE=",
+			"path": "golang.org/x/crypto/pbkdf2",
+			"revision": "453249f01cfeb54c3d549ddb75ff152ca243f9d8",
+			"revisionTime": "2017-02-08T20:51:15Z"
+		},
+		{
+			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
+			"path": "golang.org/x/net/context",
+			"revision": "10c134ea0df15f7e34d789338c7a2d76cc7a3ab9",
+			"revisionTime": "2017-02-23T22:05:28Z"
+		}
+	],
+	"rootPath": "github.com/alecholmez/binary"
+}
